@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_list_v" android:title="列表纵向"/>
+    <item android:id="@+id/menu_list_h" android:title="列表横向"/>
+    <item android:id="@+id/menu_grid_v" android:title="表格纵向"/>
+    <item android:id="@+id/menu_grid_h" android:title="表格横向"/>
+    <item android:id="@+id/menu_stagged_v" android:title="瀑布流纵向"/>
+    <item android:id="@+id/menu_stagged_h" android:title="瀑布流横向"/>
+
+</menu>
